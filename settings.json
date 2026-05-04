@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "chutiya",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": " LifeStealSMPc34.aternos.me:52435",
+    "port": 52435
     "version": "1.21.1"
   },
   "position": {
